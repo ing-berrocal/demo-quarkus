@@ -74,3 +74,8 @@ Create your first JPA entity
 Easily start your REST Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+
+
+-----
+
+ podman build -f Dockerfile.jvm ../../../. -t dberrocal/quarkus-dev:v0.0
